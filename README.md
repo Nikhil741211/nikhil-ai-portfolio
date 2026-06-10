@@ -1,6 +1,6 @@
-# Nikhil-- 3D Creator Portfolio
+# Nikhil-- AI Engineer Portfolio
 
-A dark 3D creator portfolio landing page built with React, TypeScript, Tailwind CSS, Framer Motion, and Lucide React.
+A dark AI Engineer portfolio landing page built with React, TypeScript, Tailwind CSS, Framer Motion, and Lucide React.
 
 ## Run locally
 
