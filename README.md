@@ -1,4 +1,4 @@
-# Jack -- 3D Creator Portfolio
+# Nikhil-- 3D Creator Portfolio
 
 A dark 3D creator portfolio landing page built with React, TypeScript, Tailwind CSS, Framer Motion, and Lucide React.
 
